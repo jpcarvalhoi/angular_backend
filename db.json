@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Prega",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Computador",
+      "price": 500
+    },
+    {
+      "name": "Novo Prod.",
+      "price": 4.89,
+      "id": 3
+    }
+  ]
+}
