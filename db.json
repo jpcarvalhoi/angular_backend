@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Prega",
+      "name": "Caneta BIC Prega Alterado",
       "price": 5.89
     },
     {
@@ -11,9 +11,34 @@
       "price": 500
     },
     {
-      "name": "Novo Prod.",
-      "price": 4.89,
-      "id": 3
+      "name": "Produto teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Veio do formulário, teste",
+      "price": "15.99",
+      "id": 5
+    },
+    {
+      "name": "vio do form 2",
+      "price": "41.74",
+      "id": 6
+    },
+    {
+      "name": "veio do form 3",
+      "price": "10,12",
+      "id": 7
+    },
+    {
+      "name": "lapis",
+      "price": "47",
+      "id": 8
+    },
+    {
+      "name": "teste 9",
+      "price": "9",
+      "id": 9
     }
   ]
 }
